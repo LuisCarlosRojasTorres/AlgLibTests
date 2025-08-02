@@ -1,3 +1,4 @@
+namespace AlgLib;
 /**************************************************************************
 ALGLIB 4.05.0 (source code generated 2025-06-09)
 Copyright (c) Sergey Bochkanov (ALGLIB project).
